@@ -25,7 +25,7 @@ public class CountMultiplicativePairs {
             }    
             else{
                 for(int j=i+1;j<n;j++){
-                    System.out.println(C[i]+"---"+C[j]+"--"+(C[i]*C[j]));
+                    //System.out.println(C[i]+"---"+C[j]+"--"+(C[i]*C[j]));
                     //System.out.println(C[i].multiply(C[j]));
                     //System.out.println(C[i].add(C[j]));
                     if((C[i]*C[j])>=(C[i]+(C[j]))){
