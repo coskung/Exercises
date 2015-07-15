@@ -1,0 +1,1 @@
+A simple java code to remove multiple occurences of characters which occurs morre than or equal to the given limit.
